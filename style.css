@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: Plum;
+padding: 10px;
+}
+header a {
+text-decoration: none;
+color: Lime;
+background-color: Yellow;
+border-radius: 100px;
+padding: 10px;
+}
+nav a{
+text-decoration: none;
+color: Lime;
+background-color: Yellow;
+border-radius: 100px;
+padding: 7px;
+}
+nav {
+    padding: 7px;
+    margin: 2px;
+}
+h1{
+    text-align:center ;
+color: Lime;
+}
+footer{
+    background-color: Plum;
+padding: 10px;
+}
+footer p{
+    color: Lime;
+background-color: Yellow;
+border-radius: 100px;
+padding: 7px;
+}
+div {
+    background-color: Plum;
+border-radius: 500px;
+padding: 40px;
+margin: 10px;
+}
+h2{
+  color: Lime;
+  text-size: 20px;  
+}
